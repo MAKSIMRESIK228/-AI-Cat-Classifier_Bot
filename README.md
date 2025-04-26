@@ -37,3 +37,4 @@
 @AICatClassifier_bot
 
 Теперь, если кто-то кликнет на ссылку, они смогут сразу перейти к вашему боту в Telegram.
+(https://i.pinimg.com/originals/b4/6e/53/b46e534af2aafe9c01e5ba6fa4558c30.gif)
